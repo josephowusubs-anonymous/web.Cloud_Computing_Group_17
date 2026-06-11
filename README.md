@@ -5,7 +5,8 @@ This project is a static website built to showcase our research into the field o
 
 ## Team 
 **Group 17**
-* [Insert Name 1]
-* [Insert Name 2]
-* [Insert Name 3]
-* [Insert Name 4]
+* 
+* 
+* 
+* 
+* 
