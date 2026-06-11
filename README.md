@@ -5,8 +5,8 @@ This project is a static website built to showcase our research into the field o
 
 ## Team 
 **Group 17**
-* 
-* 
-* 
-* 
-* 
+* Owusu Joseph Boadi Sekyere (2425402344)
+* Emmanuel Nana Gyan Asare (2425402212)
+* Agosim Leslie (2425401747)
+* Derry Nii Okpoti (2425401428)
+* Emmanuel Agyei (2425402769)
